@@ -1,0 +1,20 @@
+{
+  "name": "test-braze",
+  "version": "1.0.0",
+  "description": "tesitng braze api to delete profiles",
+  "main": "tester.js",
+  "scripts": {
+    "test": "t"
+  },
+  "author": "",
+  "license": "ww",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "fs": "0.0.1-security",
+    "http-request": "^0.7.0",
+    "neat-csv": "^6.0.0",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
